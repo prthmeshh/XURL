@@ -22,5 +22,5 @@
 - Test these methods using test cases.<br>
 <br>
 <br>
-### Skills used<br>
+Skills used<br>
 Core Java, Interfaces, Debugging<br>
